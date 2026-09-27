@@ -1,4 +1,4 @@
-# Teo Customs Paint & Body — teocustomsrva.com
+# Teo Customs Paint & Body — teo-customs-website.netlify.app
 User-agent: *
 Allow: /
 Disallow: /404.html
@@ -30,4 +30,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://teocustomsrva.com/sitemap.xml
+Sitemap: https://teo-customs-website.netlify.app/sitemap.xml

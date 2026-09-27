@@ -12,7 +12,7 @@
 - Coordinates: 37.490709, -77.489462
 - Phone and text: (804) 852-2954
 - Email: teo_customs@outlook.com
-- Website: https://teocustomsrva.com/
+- Website: https://teo-customs-website.netlify.app/
 - Google rating: 5.0 stars from 121 reviews
 
 ## Hours (open 7 days)
@@ -44,7 +44,7 @@
 - No published price list. Every job is quoted after the damage is seen. The fastest way to get a quote is to send photos.
 
 ## How to get an estimate or book
-- Photo estimate form: https://teocustomsrva.com/estimate.html
+- Photo estimate form: https://teo-customs-website.netlify.app/estimate.html
 - Call or text photos: (804) 852-2954
 - Email: teo_customs@outlook.com
 - Call or text ahead before visiting so Teo can make time to look at the vehicle.
@@ -75,15 +75,15 @@
 - Google Maps: https://www.google.com/maps/search/?api=1&query=Teo+Customs+Paint+and+Body%2C+5255+Hull+Street+Rd+N+%2314%2C+Richmond%2C+VA+23224
 
 ## Pages
-- Home: https://teocustomsrva.com/
-- Services: https://teocustomsrva.com/services.html
-- Our work (portfolio, before and after): https://teocustomsrva.com/work.html
-- About Teo and the shop, hours and directions: https://teocustomsrva.com/about.html
-- Photo estimate: https://teocustomsrva.com/estimate.html
+- Home: https://teo-customs-website.netlify.app/
+- Services: https://teo-customs-website.netlify.app/services.html
+- Our work (portfolio, before and after): https://teo-customs-website.netlify.app/work.html
+- About Teo and the shop, hours and directions: https://teo-customs-website.netlify.app/about.html
+- Photo estimate: https://teo-customs-website.netlify.app/estimate.html
 
 ## FAQ
 - Do you work with insurance companies? Yes. Teo Customs will work with your insurance company on collision claims and keeps you updated through the process.
-- How do I get an estimate? Send photos through the estimate form at https://teocustomsrva.com/estimate.html or text them to (804) 852-2954.
+- How do I get an estimate? Send photos through the estimate form at https://teo-customs-website.netlify.app/estimate.html or text them to (804) 852-2954.
 - How much will my repair cost? It depends on the damage, parts and paint involved; each job is quoted after the damage is seen.
 - What are the hours? Open 7 days: Mon, Tue, Thu, Fri 8 AM - 5 PM; Wed 8 AM - 5:30 PM; Sat 9 AM - 5 PM; Sun 9 AM - 5:30 PM.
 - Where is the shop, and is there parking? 5255 Hull Street Rd N #14, Richmond, VA 23224, with wheelchair-accessible entrance and parking.

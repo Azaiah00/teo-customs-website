@@ -80,3 +80,8 @@ Derived assets made for the site: `wordmark-light.webp` (wordmark with transpare
   submit the sitemap in Google Search Console and Bing Webmaster Tools.
 - The CSP in `netlify.toml` includes a hash for the one inline script (`document.documentElement.classList.add('js')`).
   If that line changes, update the hash.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://teo-customs-website.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (teocustomsrva.com) is connected in Netlify, find-and-replace `teo-customs-website.netlify.app` with `teocustomsrva.com` across the .html/.xml/.txt/.toml files, then redeploy.
